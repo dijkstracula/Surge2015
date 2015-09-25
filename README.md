@@ -49,7 +49,11 @@
 * [NES - Cycle Race:Road Man](https://www.youtube.com/watch?v=m-RYJ7azOEk)
 * [Fly! (CC-2.0)](https://www.youtube.com/watch?v=mQUcUa1FldI)
 * [Feeling Flat (CC BY-NC-ND 2.0)](https://flic.kr/p/woxM84)
+* [What Happens Next? (CC BY-NC 2.0)](https://flic.kr/p/8sp6Y4)
 * [Sunset in the desert, Western Sahara (CC BY-NC 2.0)](https://flic.kr/p/e3AuRu)
+
+* [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/)
+* [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)
 
 ## Special thanks
 
