@@ -52,6 +52,8 @@
 * [What Happens Next? (CC BY-NC 2.0)](https://flic.kr/p/8sp6Y4)
 * [Sunset in the desert, Western Sahara (CC BY-NC 2.0)](https://flic.kr/p/e3AuRu)
 
+### Licences 
+
 * [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/)
 * [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)
 
