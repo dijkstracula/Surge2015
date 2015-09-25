@@ -34,6 +34,9 @@
 ### Multicore hardware and the memory hierarchy
 
 * [What Every Programmer Should Know About Memory](http://www.akkadia.org/drepper/cpumemory.pdf)
+* [ARM Barrier Litmus Tests and Cookbook](http://infocenter.arm.com/help/topic/com.arm.doc.genc007826/Barrier_Litmus_Tests_and_Cookbook_A08.pdf)
+* [ARM Cortex-M Programming Guide to Memory Barrier Instructions](http://infocenter.arm.com/help/index.jsp?topic=/com.arm.doc.dai0321a/BIHHIAEC.html)
+* [Cortex-M3 Devices Generic User Guide](http://infocenter.arm.com/help/index.jsp?topic=/com.arm.doc.dui0552a/BABFFBJB.html)
 
 ### Libraries and source code
 
