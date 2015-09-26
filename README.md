@@ -3,7 +3,7 @@
 ## Presentation materials
 
 * [Abstract](http://surge.omniti.com/2015?nathan-taylor)
-* [Slides (not yet posted)](TODO)
+* [Slides](https://github.com/dijkstracula/Surge2015/blob/master/slides/surge2015_talk.pdf) | [Slides w/ speaker notes](https://github.com/dijkstracula/Surge2015/blob/master/slides/surge2015_talk_notes.pdf)
 * [Video (not yet posted)](TODO)
 
 ## Additional material
