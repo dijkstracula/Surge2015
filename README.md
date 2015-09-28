@@ -11,8 +11,8 @@
 ### Books
 
 * [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
-* The Art of Multiprocessor Programming
-* Java Concurrency in Practice
+* [The Art of Multiprocessor Programming](http://people.csail.mit.edu/shanir/)
+* [Java Concurrency in Practice](http://jcip.net.s3-website-us-east-1.amazonaws.com/)
 
 ### Parallel and concurrent programming
 
@@ -57,8 +57,8 @@
 
 ### Licences 
 
-* [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/)
 * [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)
+* [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/)
 
 ## Special thanks
 
